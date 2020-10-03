@@ -3,7 +3,7 @@ Increase your chances to be noted for someone in Linkedin and get a new job.
 ![Bot](https://i.ibb.co/V3sZgg8/linkedin.png)
 
 
-## Visite everybody!
+## Visit everybody!
 The algorithm create a list searching for some random people, but close to you and get theirs profile links.
 ![Visit](https://i.ibb.co/9H8chCS/Capturar-1.png)
 ## And here are you.
