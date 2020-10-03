@@ -1,6 +1,6 @@
 # LinkedinBot
 Increase your chances to be noted for someone in Linkedin and get a new job.
-
+![Bot](https://i.ibb.co/V3sZgg8/linkedin.png)
 
 
 ## Visite everybody!
